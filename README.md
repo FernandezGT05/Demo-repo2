@@ -5,6 +5,8 @@ SOme text here
 MAKE A GIT CHEAT SHEET!!!!
 
 Something else here
-|||||
 
-another thing
+
+!@#$%^&*()_+
+
+.
