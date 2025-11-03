@@ -1,0 +1,34 @@
+# Virtual environment
+venv/
+env/
+myenv/
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Logs and temp files
+*.log
+*.tmp
+*.bak
+
+# Editor settings
+.vscode/
+.idea/
+*.swp
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Environment/config
+.env
+*.sqlite3
